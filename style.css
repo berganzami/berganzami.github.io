@@ -1,0 +1,49 @@
+body                  {background-color:#fff;font-family:Georgia,sans-serif;font-size:90%;}
+h1                    {font-size:19pt;}
+h2                    {font-size:15pt;}
+
+div#wraporiginal            {text-align:left;margin:0em;margin-left:16em;width:55em;background-color:#fff;padding:1em;border:0px solid #ccc;}
+div#wrap              {text-align:left;margin:0em;margin-left:2em;width:55em;background-color:#fff;padding:1em;border:0px solid #ccc;}
+
+div#header            {background-color:#fff;color:#fff;padding:1em;margin-bottom:.5em;}
+div#header h1         {margin:0;padding:0;}
+div#header h2         {margin:0;padding:0;}
+
+div#nav               {background-color:#333;color:#eee;float:left;width:100%;text-align:center;margin-bottom:.5em;}
+div#nav ul            {margin:0;padding:0;float:left;}
+div#nav li            {display:inline;margin:0;padding:0;margin-right:.5em;}
+div#nav li a          {padding:2px;text-decoration:none;color:#eee;float:left;width:6.5em;border-right:1px solid #ccc;}
+div#nav li a:hover    {color:#eee;background-color:#555;}
+
+div#content           {padding:0em 1em;}
+div#content h2        {border-bottom:1px solid #ddd;margin-bottom:.5em;}
+div#content img.fancy {border:1px solid #ddd;padding:.5em;}
+div#content img.left  {float:left;margin-right:1em;}
+div#content img.right {float:right;margin-left:1em;}
+
+div#footer            {text-align:center;margin-top:15em;}
+
+div#menu {;color:#eee;float:left;
+width: 7em;
+text-align:left;
+margin-bottom:.5em;
+margin-left:3%;
+margin-top: 20em;   
+padding: 0;
+border: 0;  
+
+}
+
+div#menu2               {margin-left:0em;display:inline;margin-top: 0em;   float:left;width:12em;text-align:left;margin-bottom:.5em;}
+div#menu2 ul            {margin:0;padding:1em;float:left;}
+div#menu2 li            {display:inline;margin:0;padding:0.1em;margin-right:.5em;float:left;}
+div#menu2 li a          {padding:2px;color:#000000;float:left;width:8em;}
+div#menu2 li a:hover    {color:#eee;background-color:#555;}
+
+
+
+div#menu3               {margin-left:0em;display:inline;margin-top: 0em;   float:left;width:12em;text-align:left;margin-bottom:.5em;}
+div#menu3 ul            {background-color:#EEEEE0;margin:0;padding:1em;float:left;}
+div#menu3 li            {display:inline;margin:0;padding:0.1em;margin-right:.5em;float:left;}
+div#menu3 li a          {padding:2px;color:#000000;float:left;width:8em;}
+div#menu3 li a:hover    {color:#eee;background-color:#555;}
